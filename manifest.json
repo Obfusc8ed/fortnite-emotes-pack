@@ -1,0 +1,1118 @@
+{
+ "version": 1,
+ "packs": [
+  "Fortnite"
+ ],
+ "files": [
+  {
+   "path": "Fortnite/csgo_addons/characters/kolka/fortnite_dance.vmdl_c",
+   "size": 6239204,
+   "sha256": "45bfa5b2d87d0305cf29d076f8c7b15b5f086d8c521fc8fb4683c812054c43ee"
+  },
+  {
+   "path": "Fortnite/icons/DanceMoves.png",
+   "size": 6064,
+   "sha256": "14fe7304d7d8865863cd12a41f9b8e262e19f4c5588d1168978e3d7792eb3a61"
+  },
+  {
+   "path": "Fortnite/icons/ElectroShuffle.png",
+   "size": 6236,
+   "sha256": "cecd96720252f93492c419794336214628bf2137908d968d396e99cb91fa4ba4"
+  },
+  {
+   "path": "Fortnite/icons/Emote_AerobicChamp.png",
+   "size": 8180,
+   "sha256": "c543367a5d01eb3316b9cc6741a3fc6c858d5c326de3dbd0cfae1f35feb0f1b0"
+  },
+  {
+   "path": "Fortnite/icons/Emote_AirShredder.png",
+   "size": 8232,
+   "sha256": "2a7c3873f4f013247c45a306ee3d17b69e1b2484874b15b250f4b99011c6b3e8"
+  },
+  {
+   "path": "Fortnite/icons/Emote_BandOfTheFort.png",
+   "size": 6736,
+   "sha256": "e3ffb315e996542322141f58751db11e7a573c6e4ab11d7cfc26c669720a9fd0"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Bendy.png",
+   "size": 7647,
+   "sha256": "22a67a66b61d3061c5aa2d1ece20fc75c510fba0fba1a4d09822930a1fa333a2"
+  },
+  {
+   "path": "Fortnite/icons/Emote_BlindingLights.png",
+   "size": 7551,
+   "sha256": "e93d5c2255218ad0242991278f16ec45ee4b42e9f6cd896eb06cf66c2e9c55b4"
+  },
+  {
+   "path": "Fortnite/icons/Emote_BlowKiss.png",
+   "size": 7667,
+   "sha256": "c62176f75e9af005a034a90dee3878e16d6f9aa011b2d565bb3fe94f9bec2cc7"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Boogie_Down_Intro.png",
+   "size": 6968,
+   "sha256": "a823b9b38a353127e61ecb61212c10cf66591aa1f0b3a12af09b076d2e4775b9"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Bring_It_On.png",
+   "size": 5873,
+   "sha256": "c55f4a7d07c03fbc7872b277126729f6caf3cd685f0865ea24ed3e93f9140167"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Calculated.png",
+   "size": 8674,
+   "sha256": "6326c9adb20fcbe3bf5e1d37c1977eac37d481a6c756fa31384db68aeea79822"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Capoeira.png",
+   "size": 7882,
+   "sha256": "a6dda88d196efc1704513a12ae2a17b78cc04dae0bb622cd10beac66c43c6586"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Celebration_Loop.png",
+   "size": 6611,
+   "sha256": "83a103b8d6d21579f8af8abbe50320af8257b65fe1b609a3ed63208dd6563407"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Cena.png",
+   "size": 7523,
+   "sha256": "ab5380c65d727b89efd04b073469ccee326e92af7d07e2e64e3bf45223074f06"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Charleston.png",
+   "size": 5714,
+   "sha256": "b4bdf9207a4f849f18f3e8179017f889ab0d281c9a084793480b3bfd336211cb"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Chicken.png",
+   "size": 7269,
+   "sha256": "9d0464fb3a14124fa2bf671e3dedae5f16c93268de154bcd678f9549d776a0e8"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Chug.png",
+   "size": 6853,
+   "sha256": "027a81d74d07c43f2bdccda3eb2ab7c46a8ee6e799338be34dee49817db1ba6b"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Confused.png",
+   "size": 6645,
+   "sha256": "2be1f038d1a11e2ad2b110c365b8d3fb201bc3783a8f4c2a1bafd94d34c6ef38"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Crossbounce.png",
+   "size": 7204,
+   "sha256": "3712bb563499437b9f40f73266665aae21ec07f24330437426736549a28a012a"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Cry.png",
+   "size": 7872,
+   "sha256": "93a7d209f64ecb74478a9d1743d5d52fc09e745791ab168be0d0ab1311c679eb"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Dab.png",
+   "size": 6326,
+   "sha256": "998f94678cbf4f3b62d3e62bd7f8290429212ae55838df4ddfb5fc2f08798447"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Dance_Breakdance.png",
+   "size": 6643,
+   "sha256": "1b7e623a03f9e6af82c21e419ab4ccc731faf9e954c3a1692124bfc535d06f46"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Dance_Disco_T3.png",
+   "size": 8485,
+   "sha256": "8c65ece05deca7210fc748b37a1ad5bc1d9790cb18fa193f7481e116fb454ddb"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Dance_Loser.png",
+   "size": 6343,
+   "sha256": "5424b98e385b8adbb6a67fb11528448bbb8744510875b8281d79f386c6c2b884"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Dance_NoBones.png",
+   "size": 7595,
+   "sha256": "d9d9e8aa65b09e5c8974d523359041586082f6b0a26f5d4bbd5cb47c3f39a5eb"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Dance_Pump.png",
+   "size": 7772,
+   "sha256": "6f32d30cd5f5540711529e8d52c653d84e229b9468e6979cb3c4b58c30d91291"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Dance_RideThePony.png",
+   "size": 6517,
+   "sha256": "1229a29c54111f5d71de80dabab11c7879852bab9ac9c2c9b5287276c3baac09"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Dance_Shoot.png",
+   "size": 7309,
+   "sha256": "6938d9f30f8dbe6448f7ce16d16873bfa4e167510507b2d3e9805bfa5816d2d5"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Dance_SwipeIt.png",
+   "size": 7601,
+   "sha256": "f8e1ed905cf7503d6bfe8dad3b03ea9a9f504f01b8ad2ece373817627a69763c"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Dance_Worm.png",
+   "size": 7312,
+   "sha256": "5ea20d3f444f1f667e796baff98775a593fca6445a13af4ae9e51ff4d22f874c"
+  },
+  {
+   "path": "Fortnite/icons/Emote_DG_Disco.png",
+   "size": 8485,
+   "sha256": "8c65ece05deca7210fc748b37a1ad5bc1d9790cb18fa193f7481e116fb454ddb"
+  },
+  {
+   "path": "Fortnite/icons/Emote_DistractionDance.png",
+   "size": 6825,
+   "sha256": "33b79856e7059145ea0dbcaf844b272043bc1cc6b5f30b26888b43ec5182f265"
+  },
+  {
+   "path": "Fortnite/icons/Emote_DustingOffHands.png",
+   "size": 7377,
+   "sha256": "5ad5d6f5ed8955168fab87ad65f89915473005f1a2d6820d23a38cdc0a0ace1f"
+  },
+  {
+   "path": "Fortnite/icons/Emote_DustOffShoulders.png",
+   "size": 6494,
+   "sha256": "294351c41015d67885ff05d329ec5520c60e97eacc80fe338ddc771ea38a257f"
+  },
+  {
+   "path": "Fortnite/icons/Emote_EasternBloc_Start.png",
+   "size": 7730,
+   "sha256": "24f894cf82b919508fd46c184b5a28a3b487545d6f960ee9e9629d6f475de4e8"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Facepalm.png",
+   "size": 6189,
+   "sha256": "55578276e100e185d9f1d4006b34334c2385bd15ef215091752ca59a5baa99fc"
+  },
+  {
+   "path": "Fortnite/icons/Emote_FancyFeet.png",
+   "size": 6408,
+   "sha256": "c9a8c554a134a0e11bb86a4ae543bdcbfab0496677b9368602ed0dcec72bc85c"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Fishing.png",
+   "size": 7326,
+   "sha256": "5b661dc48c27168ee38d31aa0bc624cf5fa0f5f5276f39518e7d524893cae1dd"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Flex.png",
+   "size": 6617,
+   "sha256": "42165976f145d54df3d4b95be2bcc0af87cc74544f002118cf6348afe42adaa2"
+  },
+  {
+   "path": "Fortnite/icons/Emote_FlippnSexy.png",
+   "size": 7890,
+   "sha256": "0a87070d83e47b5f7e4b3a0ff1d3a177cf43d9fc7ead136d7289edeaea05ee5e"
+  },
+  {
+   "path": "Fortnite/icons/Emote_FlossDance.png",
+   "size": 6693,
+   "sha256": "86467c6c049680035f3a5340d5d0b26c04f1b2d24902ee9655844fe2a537ffe6"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Fonzie_Pistol.png",
+   "size": 6847,
+   "sha256": "9df211551788ee14cb1731107012661bfab29ae06792df9cae7e8fd95eb2f213"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Fresh.png",
+   "size": 11700,
+   "sha256": "123c0af3602d76552e9bcd824e54f9c933d0aa5d8e01fbd9e4cbb7e13d30b0ca"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Friday13.png",
+   "size": 9093,
+   "sha256": "fbb83b8b4db0a30f7ebe3a49df66f7776b9e8c910be95f028bd223008a238192"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Gangnam_Style.png",
+   "size": 7878,
+   "sha256": "f5d0a504cfa7df0f0e8aee997768e081aae634b540cf5ce33513ffe464c2a2aa"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Ghostbusters.png",
+   "size": 7997,
+   "sha256": "0009a4f0c8df440f347f7270424cddea1067f4772fcdec7c99e1621c96b49ac0"
+  },
+  {
+   "path": "Fortnite/icons/Emote_golfclap.png",
+   "size": 7228,
+   "sha256": "150717e5594f803d02854c9576c890bf0d28471e9c1b69f329a37fc31da3a74f"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Griddy.png",
+   "size": 8424,
+   "sha256": "67ccb686aa57d9cdbaab06c660ee3ef66d6dfbd7aa7a0ca96687ac9647e3bbe0"
+  },
+  {
+   "path": "Fortnite/icons/Emote_GrooveJam.png",
+   "size": 6724,
+   "sha256": "d8bbd8fb1556056cb2130c4f3d836db40702ae5c4f6b1ab14f12913777c44cde"
+  },
+  {
+   "path": "Fortnite/icons/Emote_guitar.png",
+   "size": 10675,
+   "sha256": "dca695d0f72ab978241319893031014fc9a77f04e5b0f123dcb3e0fb624dc2aa"
+  },
+  {
+   "path": "Fortnite/icons/Emote_HandSignals.png",
+   "size": 8039,
+   "sha256": "a2f56a20556574c193a36cc462b415e83dc2ead56fb5ecfeab1b12fc12c654ee"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Headbanger.png",
+   "size": 7467,
+   "sha256": "ee8a75d94a9d179776dca921d5fec787b763a523f9880a72339ed8f37d7ba9f0"
+  },
+  {
+   "path": "Fortnite/icons/Emote_HeelClick.png",
+   "size": 7086,
+   "sha256": "32bc450bbef5c514c152393e3c11066c4d7521779e4f84a5c6764e466faaa4bc"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Hillbilly_Shuffle_Intro.png",
+   "size": 9322,
+   "sha256": "94e113f3e4153ef5e26be8a9f52baac03d68a9aa40873672dc17c3bea3f6476d"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Hiphop_01.png",
+   "size": 6450,
+   "sha256": "2b7aa1086411f8f5d14251f40defa35501ac5644cdf26070d6958d3ff3bd51c2"
+  },
+  {
+   "path": "Fortnite/icons/Emote_HitchHiker.png",
+   "size": 7355,
+   "sha256": "34d08d8c3414a1dfe3229b12bc3c6adc3df6dfa95e4c20693a6c5df1ad08ba7a"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Hotstuff.png",
+   "size": 7212,
+   "sha256": "de331b4705f5f508755d72a8cc9781abe93c5bcb50d4b6fd604739c11a13c04c"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Hula_Start.png",
+   "size": 7584,
+   "sha256": "60744c15542a4c60123d3985629920379943e39f8ff7369d9b73dffe659db7b1"
+  },
+  {
+   "path": "Fortnite/icons/Emote_IBreakYou.png",
+   "size": 6113,
+   "sha256": "d6cc1d7c27a83deeae033940d9c7127249fc0e0db27d83c08ad7036892b0a1ac"
+  },
+  {
+   "path": "Fortnite/icons/Emote_IHeartYou.png",
+   "size": 8720,
+   "sha256": "56989fe936713c2fdeef4a3c1d483b30689c337e5a5cfad2b00d3f1ba4b0d771"
+  },
+  {
+   "path": "Fortnite/icons/Emote_ILikeToMoveIt.png",
+   "size": 7407,
+   "sha256": "57a20b609f71278bf9d5edcbfe37450e14fabf39ad719aaf851e3b2e040f606a"
+  },
+  {
+   "path": "Fortnite/icons/Emote_InDaGhetto.png",
+   "size": 7463,
+   "sha256": "23ea95c63502c2151c1071239fe36f9cf3e76742e230a9a4b4759f470f128723"
+  },
+  {
+   "path": "Fortnite/icons/Emote_InfiniDab_Intro.png",
+   "size": 7094,
+   "sha256": "1f5fa0dd69a671e5517af56afc986c566ae69f0683f38077941adf89db6e5e43"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Intensity_Start.png",
+   "size": 6581,
+   "sha256": "615b1ccd7eab29ae75e80dda0d7eebe62b7b1ba1c0de772aedc739cc1f4cbe50"
+  },
+  {
+   "path": "Fortnite/icons/Emote_IrishJig_Start.png",
+   "size": 3170,
+   "sha256": "345b4bc498a61328c15309887c27856c985e6cde82c030ee60647618b09abcb7"
+  },
+  {
+   "path": "Fortnite/icons/Emote_ItsGoTime.png",
+   "size": 7607,
+   "sha256": "1c7140d66421832cf22ea818fa47aa7cff6655a27270a5d459f53d317e659619"
+  },
+  {
+   "path": "Fortnite/icons/Emote_KneeSlapper.png",
+   "size": 7114,
+   "sha256": "53c07a664de06204aa04f115ec34399ebf002927a5255fcd3f6d239adba57869"
+  },
+  {
+   "path": "Fortnite/icons/Emote_KoreanEagle.png",
+   "size": 6347,
+   "sha256": "5e2e6622541a7c060694ed1a3b9e93ab8d255341c10ef7f620c76a48a8476392"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Kpop_02.png",
+   "size": 6795,
+   "sha256": "e1d760da3f750c3a14c74fe35be86b3d0f532291283da63e1baf85cb9c8909d9"
+  },
+  {
+   "path": "Fortnite/icons/Emote_KungFu_Salute.png",
+   "size": 5540,
+   "sha256": "789bf40612e56748a501bddef764b915630630843adf0d1fac6c6c89cf5be142"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Laugh.png",
+   "size": 7103,
+   "sha256": "db860087962be4ca22570c40f1b254aeb35be7816dfeccdcd1fd4dade1480047"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Lebron.png",
+   "size": 7245,
+   "sha256": "d0c25b3f2295647a6fd32401d2bd3b1946c3d912862cc72019a4d9d75aaf9425"
+  },
+  {
+   "path": "Fortnite/icons/Emote_LivingLarge.png",
+   "size": 7279,
+   "sha256": "144a7eeb60a7e29a83cd0a34b8848fe8e773d6da2047f85046d4de704e9f7c36"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Luchador.png",
+   "size": 9165,
+   "sha256": "bbec8aab456b82ef297bda96b1dd5fafe22f733d8c0500b664f1e562987698b6"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Macarena.png",
+   "size": 7254,
+   "sha256": "4f99bcd56c18dfdd393547e762d8ff4e3348a6a3d77dd433e5ba6e6793533bcc"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Make_It_Rain.png",
+   "size": 7497,
+   "sha256": "53b71c651b26d0a0d9a21bb4da44aa857bf8c86d766754a42c3575becee4f2ae"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Maracas.png",
+   "size": 6726,
+   "sha256": "fe86e4ddc4e0d65c8cb810dba829c280a07de71629d4fd31ae3015ece45bb03f"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Martian.png",
+   "size": 7019,
+   "sha256": "38f6dea2335a3f2bf51528dacae85be936ce18356f93cadbf6f05a7a7178cf2c"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Mask_Off_Intro.png",
+   "size": 7311,
+   "sha256": "4de31aa54e115ade22de86074829af4bc76c530245300acf6188d73af4f9825d"
+  },
+  {
+   "path": "Fortnite/icons/Emote_NeverGonna.png",
+   "size": 7669,
+   "sha256": "aa9027607024168e5e95a92c98b4e401e4875f3b516a9c9493ec43cb088832e5"
+  },
+  {
+   "path": "Fortnite/icons/Emote_NinjaStyle.png",
+   "size": 7718,
+   "sha256": "354f18d882bf9b0474d7bee14893340da2f41c357cba7bdcf2f3a301ea863ce4"
+  },
+  {
+   "path": "Fortnite/icons/Emote_NotToday.png",
+   "size": 6505,
+   "sha256": "b7c28b81bd5afd01bf45319b3883f3f8a5ed905bc2bb446fce0223adf2855956"
+  },
+  {
+   "path": "Fortnite/icons/Emote_PopLock.png",
+   "size": 7366,
+   "sha256": "95726a9a048d9b0d0fa8aed52356ab45238be654d965f4b69c6b58d0bb602b6f"
+  },
+  {
+   "path": "Fortnite/icons/Emote_PopRock.png",
+   "size": 6596,
+   "sha256": "22876236bb12121edd0650e134cfe361d0f2e300c4ffbb45b5d0a6fe521d5623"
+  },
+  {
+   "path": "Fortnite/icons/Emote_PumpkinDance.png",
+   "size": 7772,
+   "sha256": "6f32d30cd5f5540711529e8d52c653d84e229b9468e6979cb3c4b58c30d91291"
+  },
+  {
+   "path": "Fortnite/icons/Emote_PumpUpTheJam.png",
+   "size": 7109,
+   "sha256": "0f7e6bee87724e1c046ba4d2fd663d8457bde2598f3a3df227123e0528351e6b"
+  },
+  {
+   "path": "Fortnite/icons/Emote_RememberMe_Intro.png",
+   "size": 6887,
+   "sha256": "8536c85cb311400043c7c9a4f2955db254c3f3223030106b5e2bf3e06ccb6ab7"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Renegade.png",
+   "size": 6389,
+   "sha256": "db4e14e63256484dcd7b0e9485633db1744595603714c238e802a8ab7ee148fe"
+  },
+  {
+   "path": "Fortnite/icons/Emote_RobotDance.png",
+   "size": 7707,
+   "sha256": "378b4f4c8f03e6694f828389a23de7df20b504149b2ec993acedd86f2f55251c"
+  },
+  {
+   "path": "Fortnite/icons/Emote_RockPaperScissor_Paper.png",
+   "size": 6208,
+   "sha256": "2d5b30b694cf7a2aa3569e7eba75778ecee5cf449ac0eeeeb664d633dab8c74d"
+  },
+  {
+   "path": "Fortnite/icons/Emote_RockPaperScissor_Rock.png",
+   "size": 6208,
+   "sha256": "2d5b30b694cf7a2aa3569e7eba75778ecee5cf449ac0eeeeb664d633dab8c74d"
+  },
+  {
+   "path": "Fortnite/icons/Emote_RockPaperScissor_Scissor.png",
+   "size": 6208,
+   "sha256": "2d5b30b694cf7a2aa3569e7eba75778ecee5cf449ac0eeeeb664d633dab8c74d"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Rollie.png",
+   "size": 7904,
+   "sha256": "499d00a22603d9d8373f956576824aeed81221ae74632a4068086f02fa8fa27b"
+  },
+  {
+   "path": "Fortnite/icons/Emote_RushinAround.png",
+   "size": 7696,
+   "sha256": "6b136f63b15e5f1b4a8fbd08d8518d12a9884e095a670771e4fe007be81ff01a"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Salt.png",
+   "size": 6084,
+   "sha256": "ccbb45ddd051da5b6d45f37624f13493fe16da0ccfa014fc7ddb5b1a34d94e89"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Salute.png",
+   "size": 8132,
+   "sha256": "96d5245ee653d23b8cb8b1496e3052d6e3d4b4357ac3dd7df10118aedc69e5b5"
+  },
+  {
+   "path": "Fortnite/icons/Emote_SaySo.png",
+   "size": 7274,
+   "sha256": "a2ab2da1657c51078b3b376eb5e41c948c52643c5ef2fd1a01b567fd55465101"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Scenario.png",
+   "size": 6475,
+   "sha256": "a51eb912f3e805c6b50e152473fa93ed7ed9d2169425ce60c54ee74f26257c54"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Showstopper.png",
+   "size": 7363,
+   "sha256": "ec81380f4907a0a8db9078c087c678921e9c6fee9d79064f4b74eab31760eb52"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Smooth_Moves.png",
+   "size": 7111,
+   "sha256": "5d9177fb807d91770cb7207a53be2180ba996adec99825c1bcf9b38a9e23edd6"
+  },
+  {
+   "path": "Fortnite/icons/Emote_SmoothDrive.png",
+   "size": 7612,
+   "sha256": "1143b8b35ad53fb3dc62b741339e4022c13b991df0e5ee8377b611fad864cbcf"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Snap.png",
+   "size": 8129,
+   "sha256": "8feafa7289606df0e7678cd721610ca75a8af4c654f65c77ae67d1a3208e3852"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Sprinkler.png",
+   "size": 6929,
+   "sha256": "60a862eb6358ee2a35d66a126e604a43bf2544195fb8083b3d6d44ddd9c8eb9c"
+  },
+  {
+   "path": "Fortnite/icons/Emote_StageBow.png",
+   "size": 7200,
+   "sha256": "666064605d9e1e3680788eee733dcd0a0b7f8ce80a066fee0730285898e415d4"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Stuck.png",
+   "size": 7311,
+   "sha256": "276f7d5456e61eb7fc4adb78ac771fda36783fa696d5dd7b610e740589f468b2"
+  },
+  {
+   "path": "Fortnite/icons/Emote_TechnoZombie.png",
+   "size": 8018,
+   "sha256": "e1a521eb68653605067e5b571a8d157444e3326048c9785f5a02bbfeedcf5639"
+  },
+  {
+   "path": "Fortnite/icons/Emote_ThumbsDown.png",
+   "size": 6298,
+   "sha256": "d253203175a7a8be09c75b6127b682d643ce17568e527f640243d63ea8c92f2d"
+  },
+  {
+   "path": "Fortnite/icons/Emote_ThumbsUp.png",
+   "size": 6221,
+   "sha256": "b8ebb4b733a97abf0248d7352099618db11273471f9f625177619d0a883e7288"
+  },
+  {
+   "path": "Fortnite/icons/Emote_ToosieSlide.png",
+   "size": 6646,
+   "sha256": "162f055c065351456a76e895282e763282c623368a5dc1a6894df3f6186f4147"
+  },
+  {
+   "path": "Fortnite/icons/Emote_TRex.png",
+   "size": 8620,
+   "sha256": "364c5026ad8f6486ee073681a85c70fb49146643ef2be64776d14f9154bfdd2b"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Twist.png",
+   "size": 7167,
+   "sha256": "78a478b095ca0360bf18d733f3ac8988850fcdfdd5b4a6f7d8b48b5824fc23ab"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Walkywalk_Walk.png",
+   "size": 8455,
+   "sha256": "8746e0836a6c2f39c238f53b47ff91e4b3d41d5784307c8934d57475387e675f"
+  },
+  {
+   "path": "Fortnite/icons/Emote_WarehouseDance_Start.png",
+   "size": 7112,
+   "sha256": "2641b72706c99b8d0119f118efd4e12a523bc846cabfb2c5ede80c4a8df0b023"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Wave2.png",
+   "size": 5870,
+   "sha256": "49c969bb99990fdf02c7a8c9cad83671296175a2938cff47d282cc108ed4abe0"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Wiggle.png",
+   "size": 7479,
+   "sha256": "d87c62c58b5c9d23d40ef89fcf527b45626c8cbc407ac5babee5fb0c0656a8c2"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Yeet.png",
+   "size": 7534,
+   "sha256": "b8b5d578b6b03364bde20af1870ad1c5775ca2da2ccfeb45b77b2c45bcbd5c4c"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Youre_Awesome.png",
+   "size": 7644,
+   "sha256": "a8e0ea5e17a0d4e3e6b0e28f917d8c81f140b6f074f866c19a24d4d670950e7a"
+  },
+  {
+   "path": "Fortnite/icons/Emote_Zippy_Dance.png",
+   "size": 6507,
+   "sha256": "6feb0e40a956f4e840574511f760930687018c23ab2eba465e8e1a5349688298"
+  },
+  {
+   "path": "Fortnite/music/DanceMoves.wav",
+   "size": 348044,
+   "sha256": "cf78d7745f3e6695cb970de6036671f8690d0db7b1a7fc990b02c027413afdc0"
+  },
+  {
+   "path": "Fortnite/music/ElectroShuffle.wav",
+   "size": 669452,
+   "sha256": "c197c70ce4d5bb299e2e2a12b2323c9fc3dbe237f6c221d951da7a827bb8bb17"
+  },
+  {
+   "path": "Fortnite/music/Emote_AerobicChamp.wav",
+   "size": 1114124,
+   "sha256": "b59e0afa5ba8d97d40caac2d5cf363e12dd3400e3717006ada8d871080f322c2"
+  },
+  {
+   "path": "Fortnite/music/Emote_AirShredder.wav",
+   "size": 2067980,
+   "sha256": "d38dba1fe48b539bf6770827390e76408de1ceec590cde4eb049ff4a6847a552"
+  },
+  {
+   "path": "Fortnite/music/Emote_BandOfTheFort.wav",
+   "size": 786956,
+   "sha256": "34cc40eb5afd721124520113919854d1a7d84576117f0166dcef27bc4e990b8c"
+  },
+  {
+   "path": "Fortnite/music/Emote_Bendy.wav",
+   "size": 807692,
+   "sha256": "fc5a44f38dfbc91e7f218cfc21d28217fbbd3e68d06195661c734c60e7631ff0"
+  },
+  {
+   "path": "Fortnite/music/Emote_BlindingLights.wav",
+   "size": 1245452,
+   "sha256": "d64da7725c52f4f9206505090a06c3d783f83b8bf53eeda716cf31683836bc07"
+  },
+  {
+   "path": "Fortnite/music/Emote_BlowKiss.wav",
+   "size": 54284,
+   "sha256": "1038b69ae29ecbdd97f80c7377e6739daea73c25cf1a7a139cdf1e308953a8d7"
+  },
+  {
+   "path": "Fortnite/music/Emote_BoogieDown.wav",
+   "size": 1618660,
+   "sha256": "85c1ab81ec9a5b7dd3d2a8f98d3ff8bc6d4ffc606d26fdcda2c200c65331e1d7"
+  },
+  {
+   "path": "Fortnite/music/Emote_Calculated.wav",
+   "size": 254732,
+   "sha256": "2b60e616bb3cef29ec7973bdbeeb70d66c667262882dfc4e1243639a3ef9d3ba"
+  },
+  {
+   "path": "Fortnite/music/Emote_Capoeira.wav",
+   "size": 722444,
+   "sha256": "7751f81fb0c7c5b31c321c4b1d066f1cc11d802cf45f5ec07fc4b1dab17c35b8"
+  },
+  {
+   "path": "Fortnite/music/Emote_Celebration.wav",
+   "size": 282380,
+   "sha256": "b554e7df3a197929210d1fd16e7470419e1a2e1f6a3101af5b0c8002ab12766b"
+  },
+  {
+   "path": "Fortnite/music/Emote_Cena.wav",
+   "size": 653324,
+   "sha256": "fc35b4417e01fa399e57ffade030f05c2c217b16c2f5e92527508692c51660c9"
+  },
+  {
+   "path": "Fortnite/music/Emote_Charleston.wav",
+   "size": 653324,
+   "sha256": "f27d2171f858b9afd24445bc5bc59491c0b9f1ff4124941992b853db41f06883"
+  },
+  {
+   "path": "Fortnite/music/Emote_Chicken.wav",
+   "size": 326156,
+   "sha256": "29fbbef0346dbdb5421059d550cb9927f969c39bae54d04b0e5e7b593635579d"
+  },
+  {
+   "path": "Fortnite/music/Emote_Crossbounce.wav",
+   "size": 1328396,
+   "sha256": "a81c3f64467f8d41727c56346d4405dd1b9306b7e61e6663bb3d33e9caab8f1b"
+  },
+  {
+   "path": "Fortnite/music/Emote_Cry.wav",
+   "size": 694796,
+   "sha256": "80b5792742965d2d36596691d3b0dea50dcb8521b4d0779f2817e30869ab8851"
+  },
+  {
+   "path": "Fortnite/music/Emote_Dance_Breakdance.wav",
+   "size": 648716,
+   "sha256": "e2c18653917bb2f9ca85d664be84f6078c6c15a1f35b896f963ddbeee8fa0b89"
+  },
+  {
+   "path": "Fortnite/music/Emote_Dance_Disco_T3.wav",
+   "size": 754700,
+   "sha256": "6d69291f6554cc46102b9c3eed5587f5dff2cfea75ca1c807aa96ba5ff12d46e"
+  },
+  {
+   "path": "Fortnite/music/Emote_Dance_Loser.wav",
+   "size": 1116428,
+   "sha256": "6c40b59a17bca6bacf31a9c8e2c38902ffb279d41912953bf090ff3dced81f97"
+  },
+  {
+   "path": "Fortnite/music/Emote_Dance_NoBones.wav",
+   "size": 1356044,
+   "sha256": "51d8a844848c7f3abad58628b25ebc79b2327015dd9548c6d5a9c3825cae43eb"
+  },
+  {
+   "path": "Fortnite/music/Emote_Dance_Pump.wav",
+   "size": 1224716,
+   "sha256": "fed5c4044516c26133e75bb39497b0d63eef7717d78eef398dee225f9b7470b5"
+  },
+  {
+   "path": "Fortnite/music/Emote_Dance_RideThePony.wav",
+   "size": 157964,
+   "sha256": "b46dd3f9edbc34a1486b9a3d97aa47b9a76f995054ccb4041ef0af2af2ba5bc5"
+  },
+  {
+   "path": "Fortnite/music/Emote_Dance_Shoot.wav",
+   "size": 1187852,
+   "sha256": "822f2d105af450a5ccdc5d6a8c5c01f19f40333b9ff8e0f3ebb248cf1912028e"
+  },
+  {
+   "path": "Fortnite/music/Emote_Dance_SwipeIt.wav",
+   "size": 1169420,
+   "sha256": "7e88700c9c42e9f1c817d31569069cf0e604febfc602946f0876369e3e7d1b11"
+  },
+  {
+   "path": "Fortnite/music/Emote_Dance_Worm.wav",
+   "size": 609548,
+   "sha256": "6df455fd022e63bc7502d86ac56ec391a26b8f7e7ef792c1b5a6a82ed899da51"
+  },
+  {
+   "path": "Fortnite/music/Emote_DG_Disco.wav",
+   "size": 655628,
+   "sha256": "b8fb77132d26ab8edae4cfe17515e9d2ded62e26abb8b0a9a03db121f1c78f17"
+  },
+  {
+   "path": "Fortnite/music/Emote_DistractionDance.wav",
+   "size": 651020,
+   "sha256": "a1b7421081e027e288de556a8fb57d7d1843c4bd2aeedf84d6a8ff2cdaf08b37"
+  },
+  {
+   "path": "Fortnite/music/Emote_DustingOffHands.wav",
+   "size": 293900,
+   "sha256": "4a0ee635889e7f874c0bbc834a58d33e52ce063cc6f5d441450b37f42d74f2ad"
+  },
+  {
+   "path": "Fortnite/music/Emote_DustOffShoulders.wav",
+   "size": 1840742,
+   "sha256": "7d535c1145957d965960f6a9f699e450d5f51f86884bd005c134d1696bdfd256"
+  },
+  {
+   "path": "Fortnite/music/Emote_EasternBloc.wav",
+   "size": 1266188,
+   "sha256": "36d4692718ddc9db3393044bb058276dbc848b820c812af2904f6734db87579c"
+  },
+  {
+   "path": "Fortnite/music/Emote_Facepalm.wav",
+   "size": 206348,
+   "sha256": "af1beafea31ecace856c3232a8efc9dfeae5e7c8404af5d0037d84fe06c446e9"
+  },
+  {
+   "path": "Fortnite/music/Emote_FancyFeet.wav",
+   "size": 1487372,
+   "sha256": "b5ab875863f96136746134f10a2cdfbbfd1b25d8116e5c9bfcce9ff61456bf6a"
+  },
+  {
+   "path": "Fortnite/music/Emote_Fishing.wav",
+   "size": 356108,
+   "sha256": "4fad465115fc3ae459657ba89a67d0ad16d68085cf37315d9341df4fd6a950c0"
+  },
+  {
+   "path": "Fortnite/music/Emote_Flex.wav",
+   "size": 791564,
+   "sha256": "98d3ab925bbc702699efaae0f0a88007d3f07efd8336000ce1774923a69e4912"
+  },
+  {
+   "path": "Fortnite/music/Emote_FlippnSexy.wav",
+   "size": 323852,
+   "sha256": "b2c37da3eda0253a38cb3d058c5aada822996469357fdcdf30bb66877d93751f"
+  },
+  {
+   "path": "Fortnite/music/Emote_FlossDance.wav",
+   "size": 738572,
+   "sha256": "eed4f9ba9d84e31a5d9cc7c0cab1e4c5073ee34155731df8b0c484ce70129c7b"
+  },
+  {
+   "path": "Fortnite/music/Emote_Fresh.wav",
+   "size": 448268,
+   "sha256": "c4e092c18990d813ec7889b7caf850ecaa4672721bf70ee47ec6ace8328a115e"
+  },
+  {
+   "path": "Fortnite/music/Emote_Friday13.wav",
+   "size": 1362956,
+   "sha256": "a831cb1b7e1fd484bfb5fbda2879ebb79805237a4c2d6ba8dd2e945a77082d62"
+  },
+  {
+   "path": "Fortnite/music/Emote_Gangnam_Style.wav",
+   "size": 2556428,
+   "sha256": "019559aac9426b4e37871b231bb02d4f68f207eabaf8242ecb661b5842c71c3a"
+  },
+  {
+   "path": "Fortnite/music/Emote_Ghostbusters.wav",
+   "size": 2945804,
+   "sha256": "e5d523dde3708fbbfd4583abe28893aeb96357077c0cadceff6c4ccfc06d0f03"
+  },
+  {
+   "path": "Fortnite/music/Emote_golfclap.wav",
+   "size": 344588,
+   "sha256": "a75f80fdb5e54bc4c5e1c5e2a45b12ba5d8e6b0847f49fda5331415dd7fe70ee"
+  },
+  {
+   "path": "Fortnite/music/Emote_Griddy.wav",
+   "size": 2157836,
+   "sha256": "905002157279721e23d0fe7aeebec8f95efc7a0824ff5ff0b839e2b96fa7e058"
+  },
+  {
+   "path": "Fortnite/music/Emote_GrooveJam.wav",
+   "size": 1335308,
+   "sha256": "5f8dae4989002325622290225fefb0a3e20e0dc2a9de74d259b441d673034481"
+  },
+  {
+   "path": "Fortnite/music/Emote_guitar.wav",
+   "size": 897548,
+   "sha256": "3055e317e82e30916aaae9b045032e2dbe33b3246ba38993a9d131573b8eec73"
+  },
+  {
+   "path": "Fortnite/music/Emote_HandSignals.wav",
+   "size": 846860,
+   "sha256": "cd0bed8a8033a61794156b03f6669a23162e743982af6650d1c6881d90e9ed5e"
+  },
+  {
+   "path": "Fortnite/music/Emote_Headbanger.wav",
+   "size": 2408972,
+   "sha256": "cd0c7b797411f7f0c901f7ba87d707c3cae124ddaf8b2d74d214413731a99cff"
+  },
+  {
+   "path": "Fortnite/music/Emote_HeelClick.wav",
+   "size": 174092,
+   "sha256": "ea0a9c4b6898a1418c121e58aa1b89396ff9f21a8acc99e63621f75d82e194a1"
+  },
+  {
+   "path": "Fortnite/music/Emote_Hillbilly_Shuffle.wav",
+   "size": 621004,
+   "sha256": "a4c8eb3e11debf725fb61853286c7048aaf2c5913245d50c5a9bd49119456f49"
+  },
+  {
+   "path": "Fortnite/music/Emote_Hip_Hop.wav",
+   "size": 1284620,
+   "sha256": "f34da899d246074aa5cbebb0d81cdc542b5cd96d7c1ecd843f6a294f60ca5310"
+  },
+  {
+   "path": "Fortnite/music/Emote_HitchHiker.wav",
+   "size": 1471244,
+   "sha256": "7f6d03ad2201268161a84bd11550aa9aaef6d1bb5b1f52c627304c9cb64b24eb"
+  },
+  {
+   "path": "Fortnite/music/Emote_Hotstuff.wav",
+   "size": 266252,
+   "sha256": "8f43acfc826a875fc7d22e4296cbd7361b83bc89986546de686e6bf8afe0b569"
+  },
+  {
+   "path": "Fortnite/music/Emote_Hula.wav",
+   "size": 1247756,
+   "sha256": "803a09768f89c66423d982676b5e2ad0ce208311745115f71493c75239e7bbe7"
+  },
+  {
+   "path": "Fortnite/music/Emote_ILikeToMoveIt.wav",
+   "size": 651020,
+   "sha256": "9aa01fcf7ba3da9f6398fae47f3b23ca28d46523457b09685c7caab134d689e5"
+  },
+  {
+   "path": "Fortnite/music/Emote_InDaGhetto.wav",
+   "size": 1339916,
+   "sha256": "df07f8416f97624060bc228429aee72ee6501551f5be7e972cd3a81e01a91066"
+  },
+  {
+   "path": "Fortnite/music/Emote_InfiniDab.wav",
+   "size": 1365260,
+   "sha256": "1f3625c48d71da8eeaa0b497b031db721fbe94ffe56a20e4bf2f188936696457"
+  },
+  {
+   "path": "Fortnite/music/Emote_Intensity.wav",
+   "size": 3116300,
+   "sha256": "fe79cc38491929549636d61ba8922ed84ea64f7be8075cd40afd0d54459a6945"
+  },
+  {
+   "path": "Fortnite/music/Emote_IrishJig.wav",
+   "size": 1065740,
+   "sha256": "02b792b5c18c216fb09866e3d2e59ef046c884f3c36b2aab8596bcc28b3e5fae"
+  },
+  {
+   "path": "Fortnite/music/Emote_ItsGoTime.wav",
+   "size": 1358348,
+   "sha256": "db9d08764b124efeca38d0026f347560bf0cc9b81ec6618f3ea6fedb06220566"
+  },
+  {
+   "path": "Fortnite/music/Emote_KneeSlapper.wav",
+   "size": 2752268,
+   "sha256": "4ec4ecc2cb082cc0a86a21341970fca08f0ec55475bbe45bc484dbc9cee4c3cc"
+  },
+  {
+   "path": "Fortnite/music/Emote_KoreanEagle.wav",
+   "size": 1646348,
+   "sha256": "80d60724ec935e884141f89f313613457e3a7bf9d9e0a5ab110765560a8a8eee"
+  },
+  {
+   "path": "Fortnite/music/Emote_Kpop.wav",
+   "size": 678668,
+   "sha256": "889c59382810bfa0fd7f370c00589a8361baacaeef3b47b48c700a2967579821"
+  },
+  {
+   "path": "Fortnite/music/Emote_Laugh.wav",
+   "size": 809996,
+   "sha256": "ee51d941d91e00f93df72d3d7bb24011aeecff87a37695ec522babdbad7eb26c"
+  },
+  {
+   "path": "Fortnite/music/Emote_Lebron.wav",
+   "size": 798476,
+   "sha256": "accd057318c91c7f94e8ad31ed4b9646ace68d32029ca16daca7080398dfb921"
+  },
+  {
+   "path": "Fortnite/music/Emote_LivingLarge.wav",
+   "size": 1462028,
+   "sha256": "cc5406df74891c9dbde9e909f6c4e0aba167e9c7e9515071af413cd5fb7092f4"
+  },
+  {
+   "path": "Fortnite/music/Emote_Luchador.wav",
+   "size": 600332,
+   "sha256": "b99a9bb819547a3936f0781d3060897550c50601eabb5e83515f20e754a6c4c3"
+  },
+  {
+   "path": "Fortnite/music/Emote_Macarena.wav",
+   "size": 6622988,
+   "sha256": "910be143e783f71337eb2cc95b33c6db6a6d401a24b66373f71aab945aa8c787"
+  },
+  {
+   "path": "Fortnite/music/Emote_Make_It_Rain.wav",
+   "size": 411404,
+   "sha256": "4414ce740a2733d03d7eed9c2c757df20a50a3304b99882a4723cb4160c9bbed"
+  },
+  {
+   "path": "Fortnite/music/Emote_Maracas.wav",
+   "size": 720140,
+   "sha256": "14bbbc341836ad03f355bbbc12a84f5731b3454f10da925c3c038b6881920041"
+  },
+  {
+   "path": "Fortnite/music/Emote_Martian.wav",
+   "size": 2291468,
+   "sha256": "453cd53ab63fbc85fb6931b8eb9b276d293cf849c1227a39a5fb18ece5c93735"
+  },
+  {
+   "path": "Fortnite/music/Emote_Mask_Off.wav",
+   "size": 1671692,
+   "sha256": "8d888b9a96bf208e4069096aeb9e8778d32ecc31609cc8aea4c787a6f50bfb90"
+  },
+  {
+   "path": "Fortnite/music/Emote_NeverGonna.wav",
+   "size": 2966540,
+   "sha256": "27dcd20a2651d12bbffe0acdec70fd1157e3bc95e1a55544e056b921f6e53da5"
+  },
+  {
+   "path": "Fortnite/music/Emote_NinjaStyle.wav",
+   "size": 1321484,
+   "sha256": "70b5d3500a0ce17021d4d24653547e8d3fd13ac8d6abb35776d1314da73cc016"
+  },
+  {
+   "path": "Fortnite/music/Emote_PopLock.wav",
+   "size": 1468940,
+   "sha256": "493f9df0c12f3993e4bb281f3a8d051ce8a921b0bc3f19300eff0fb4544597fa"
+  },
+  {
+   "path": "Fortnite/music/Emote_PopRock.wav",
+   "size": 1413644,
+   "sha256": "a2e63615ecdd20132ca926204113fbb779be2a5544c01fee39e1129fd49eded4"
+  },
+  {
+   "path": "Fortnite/music/Emote_PumpkinDance.wav",
+   "size": 1097996,
+   "sha256": "276e73dffef400f31ea3935a40b4a03d9be1e49787c1f7a6ac0ab7f3dd17c53a"
+  },
+  {
+   "path": "Fortnite/music/Emote_PumpUpTheJam.wav",
+   "size": 1351436,
+   "sha256": "6d7d9d688faf901611b6038516c5c02c0d4a1c7018e3e8025e7cc71c2d89dc7a"
+  },
+  {
+   "path": "Fortnite/music/Emote_RememberMe.wav",
+   "size": 3498764,
+   "sha256": "b73583b0aff817a951805df4551e214247ed19523b826f1d9ed3a1eb424b6b76"
+  },
+  {
+   "path": "Fortnite/music/Emote_Renegade.wav",
+   "size": 2279948,
+   "sha256": "befaf80f6246b48292f3aa3425bd6c1d77914776be0d47e86cf66329884883db"
+  },
+  {
+   "path": "Fortnite/music/Emote_RobotDance.wav",
+   "size": 1747724,
+   "sha256": "4dbc9997994d07834715ff842790aa87a7585e6e248fd3cbd52a72195d8b330d"
+  },
+  {
+   "path": "Fortnite/music/Emote_Rollie.wav",
+   "size": 3731468,
+   "sha256": "cb8a50533d540c83018d6fe3c2a15bc78106770c4c54ec449340d300608c8b33"
+  },
+  {
+   "path": "Fortnite/music/Emote_RushinAround.wav",
+   "size": 2662412,
+   "sha256": "1284247f8e0caca8cfd29c11c4d27db3bd4530673395699f38d0486b51958dd5"
+  },
+  {
+   "path": "Fortnite/music/Emote_Salute.wav",
+   "size": 176396,
+   "sha256": "ef12720c4919c894737e71b049f78560b04382112c83e338548ddf456642de1a"
+  },
+  {
+   "path": "Fortnite/music/Emote_SaySo.wav",
+   "size": 1521932,
+   "sha256": "3207ebec8df0eda06b51ce4d48608781612b52cd51dc1ec274eab446d135bb44"
+  },
+  {
+   "path": "Fortnite/music/Emote_Scenario.wav",
+   "size": 2885900,
+   "sha256": "cab3b3c9bc6abb95633df3fe3f4efed64f8e731d51ed098bf18265638e9b3f99"
+  },
+  {
+   "path": "Fortnite/music/Emote_Showstopper.wav",
+   "size": 1303052,
+   "sha256": "bfad52450e01f3a698364141d979784749459f241fae4b6f2eb8942160f26a74"
+  },
+  {
+   "path": "Fortnite/music/Emote_Smooth_Moves.wav",
+   "size": 1678604,
+   "sha256": "3d5826eb2bb60e5e759334319a0c53cf8eded39939026cca09b5ff08a727938c"
+  },
+  {
+   "path": "Fortnite/music/Emote_SmoothDrive.wav",
+   "size": 1842188,
+   "sha256": "ea64c71221e47ef9fe0065530c4347296ba2fddf0c6daa58087904d3f36e3f76"
+  },
+  {
+   "path": "Fortnite/music/Emote_Snap.wav",
+   "size": 169484,
+   "sha256": "811392e07663f24c9665dfb1c08f288f38db7c7754d52b8cc15a683a3d93d587"
+  },
+  {
+   "path": "Fortnite/music/Emote_Sprinkler.wav",
+   "size": 1989644,
+   "sha256": "acef79be436ee1c24fad7c47cdd886e5803170ef425690be1f39c3dcc97fa9f4"
+  },
+  {
+   "path": "Fortnite/music/Emote_StageBow.wav",
+   "size": 300812,
+   "sha256": "4137d659ab1630b58c8b605800884ad244761b759195b2f92301b174067aaf2d"
+  },
+  {
+   "path": "Fortnite/music/Emote_Stuck.wav",
+   "size": 2026508,
+   "sha256": "6aed72aa5d480e4652ef2c7f6a99c88aba32d1580f0654a06f4948b9508185e8"
+  },
+  {
+   "path": "Fortnite/music/Emote_TechnoZombie.wav",
+   "size": 849164,
+   "sha256": "031359f9cb97f603406f81d920994155b62cf1dacc864de8562732278117ca9a"
+  },
+  {
+   "path": "Fortnite/music/Emote_ToosieSlide.wav",
+   "size": 3109388,
+   "sha256": "c6007badf538f7c852a70e250c63e132531ab705daa72994bcf041f2793607f6"
+  },
+  {
+   "path": "Fortnite/music/Emote_TRex.wav",
+   "size": 1125644,
+   "sha256": "0261fa5bc97a10a4f4c74ddec5c0464cf67e866f3264226d73fc1b7bb9ee4c22"
+  },
+  {
+   "path": "Fortnite/music/Emote_Twist.wav",
+   "size": 987404,
+   "sha256": "83d6c03e82799887c30ed3b4e8f956528555b4642da08215727fc762600e3996"
+  },
+  {
+   "path": "Fortnite/music/Emote_Walkywalk_Walk.wav",
+   "size": 2544908,
+   "sha256": "3f8f65d6689b65e25b1463a064594eed9753fc41861283ba33b204b710ffe0b6"
+  },
+  {
+   "path": "Fortnite/music/Emote_WarehouseDance.wav",
+   "size": 2805260,
+   "sha256": "18970cee35351184cdaf636cbadaf7c8471c2082d822c9fdcbe84540e131eb61"
+  },
+  {
+   "path": "Fortnite/music/Emote_Wiggle.wav",
+   "size": 457484,
+   "sha256": "00f2dd353f3800cbcfe878e748be91def5b8c0b7228e87c368884d8a325e53a8"
+  },
+  {
+   "path": "Fortnite/music/Emote_Yeet.wav",
+   "size": 197132,
+   "sha256": "a2ea090e588b6b1bd6c09fb79e7089f7001f13d354279a17ec743d21b5c6772f"
+  },
+  {
+   "path": "Fortnite/music/Emote_Youre_Awesome.wav",
+   "size": 436748,
+   "sha256": "588542b9f65d8676f612a5a27e21a12d9851d44fd43b29228e327c2620f892a8"
+  },
+  {
+   "path": "Fortnite/music/Emote_Zippy_Dance.wav",
+   "size": 648716,
+   "sha256": "abc10b5bae7f0e94ac20a21e98c4dff43402277a83e310ef1d98adabdedb27c0"
+  },
+  {
+   "path": "Fortnite/pack.json",
+   "size": 31822,
+   "sha256": "e710599001e417fc16a05d3e7d0d42aebff666be465205a79a1cd5ec52c4b22f"
+  }
+ ]
+}
